@@ -9,7 +9,7 @@ A modern, responsive landing page template built with pure HTML & CSS.
 HTML5 | CSS3
 
 ## 📸 Screenshot
-
+![Leon Template](youssef-mosa.github.io_Leon-Template-_.png)
 
 ## 🚀 Getting Started
 git clone https://github.com/youssef-mosa/Leon-Template-
